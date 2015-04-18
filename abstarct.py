@@ -3,7 +3,8 @@ import numpy as np
 
 # Load all the .jpg files as a list
 import os
-path = '/Users/prabhath/desktop/image_timeseries'
+# Path where the images are located
+path = 'filePath'
 files = []
 for image in os.listdir(path):
     if image.endswith('.jpg'):
