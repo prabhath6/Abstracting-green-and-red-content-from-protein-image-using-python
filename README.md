@@ -18,4 +18,5 @@ Now convert the normal arrays into numpy arrays for beter manipulation. ```np.ar
 
 Plot the values in the numpy arrays corresponding to the images using the pylab module.
 
-
+Note: 
+This is done using ipython the path must be changed while running using normal editors.
